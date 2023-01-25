@@ -1,0 +1,37 @@
+.card{
+    width: 8cm;
+    height: 9cm;
+    margin: 100px;
+    padding: 5px;
+    border:  1px solid black; 
+    box-shadow: 1px 5px 10px rgb(205, 164, 60);
+    border-radius: 15px;
+    cursor: pointer;
+    background-image: linear-gradient( to right, rgb(215, 167, 77),white,rgb(97, 213, 97));
+}
+.rj{
+    border-radius: 10px;;
+    width:300px;
+}
+hr{
+    margin: 5px;
+    width: 70%;
+    border: 1px solid rgb(203, 152, 70);
+}
+.current-price{
+    padding-left: 18px;
+    font-weight: 1000;
+    color: rgb(255, 130, 4);;
+}
+.cutting-price{
+    margin: 13px;
+    font-weight: 800;
+    color: rgb(125, 124, 124);
+}
+.off{
+    font-weight: 800;
+    background-color: rgb(148, 201, 92);
+    border-radius: 6px;
+    padding: 4px;
+    color: rgb(240, 241, 238);
+}
